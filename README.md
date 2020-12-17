@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Hi there! I'm Arjun. 👋
 
-My name is Arjun Neervannan and I'm a student at The University of Pennsylvania's dual degree Management and Technology (M&T) Program! I'm pursuing a B.S.E in Computer Science from the School of Engineering and B.S. in Economics from the Wharton School of Business.
+I'm a student at The University of Pennsylvania's dual degree Management and Technology (M&T) Program! I'm pursuing a B.S.E in Computer Science from the School of Engineering and B.S. in Economics from the Wharton School of Business.
 
 In the past, I've built an NLP-based toxic comment detection algorithm (check out my repository Toxic-Comment-Detection for more) and was selected to be a top 10 Regeneron STS Finalist for this project. I was also the founder and captain of an FIRST Robotics Team and have worked on other AI-related projects, including text summarization (NLP), creating an algorithm to learn to walk on its own (Reinforcement Learning), and grammar correction/entity recognition (NLP).
 
